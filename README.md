@@ -4,6 +4,8 @@ Sistema de monitoramento de sensores de temperatura, implementado sobre uma
 infraestrutura de rede virtualizada com 3 VMs em dois segmentos de rede
 distintos (zona externa e zona interna protegida), usando QEMU/KVM + libvirt.
 
+[Link para o vídeo explicando](https://www.youtube.com/watch?v=vmvO6llryic)
+
 ## Arquitetura de rede
 
 ```
