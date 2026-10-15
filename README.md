@@ -2,7 +2,7 @@
 
 # Sistemas Distribuídos — Trabalhos
 
-Autores: [SEU NOME] e [NOME DO COLEGA]
+Autores: Bruno Eduardo, Fernando Macedo, Meni Ramos
 
 Repositório com os trabalhos da disciplina de Sistemas Distribuídos. Os
 Trabalhos 2 e 3 usam **a mesma infraestrutura de rede virtualizada** (3 VMs
