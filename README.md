@@ -291,8 +291,7 @@ iptables -t nat -L POSTROUTING -n -v       # esperado: regra MASQUERADE
 <a name="trabalho-1"></a>
 ## Trabalho 1
 
-[PREENCHER: objetivo do Trabalho 1, tecnologias usadas, como executar e
-como ele se relaciona (ou não) com a infraestrutura acima.]
+Não completado na primeira unidade.
 
 ---
 
