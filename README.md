@@ -33,13 +33,13 @@ síncrono/assíncrono** no Trabalho 3.
 .
 ├── README.md                  (este arquivo)
 ├── trabalho-1/                [PREENCHER: arquivos do Trabalho 1]
-├── trabalho-2-sockets/
+├── Trabalho 2/
 │   ├── tcp_server.c
 │   ├── tcp_client.c
 │   ├── udp_server.c
 │   ├── udp_client.c
 │   └── (vídeo)
-└── trabalho-3-rpc/
+└── Trabalho 1 Unidade 2/
     ├── Log.java
     ├── ServicoRemoto.java
     ├── ServicoImpl.java
