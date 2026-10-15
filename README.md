@@ -32,7 +32,7 @@ síncrono/assíncrono** no Trabalho 3.
 ```
 .
 ├── README.md                  (este arquivo)
-├── trabalho-1/                [PREENCHER: arquivos do Trabalho 1]
+├── trabalho-1/              
 ├── Trabalho 2/
 │   ├── tcp_server.c
 │   ├── tcp_client.c
