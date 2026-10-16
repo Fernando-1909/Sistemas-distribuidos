@@ -1,5 +1,7 @@
-[Link para o vídeo explicando trabalho 2 unidade 1](https://www.youtube.com/watch?v=vmvO6llryic)
-[Link para o vídeo explicando trabalho 1 unidade 2](https://youtu.be/fzU0_W3SSME)
+[Link para o vídeo explicando trabalho 2 unidade 1](https://www.youtube.com/watch?v=vmvO6llryic) 
+
+[Link para o vídeo explicando trabalho 1 unidade 2](https://youtu.be/fzU0_W3SSME) 
+
 # Sistemas Distribuídos — Trabalhos
 
 Autores: Bruno Eduardo, Fernando Macedo, Meni Ramos
